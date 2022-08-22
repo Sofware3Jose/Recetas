@@ -1,0 +1,27 @@
+#contenedor #imagen {
+    background-image: url(../Imagenes/Omelettejpg.jpg);
+
+    background-size: 50%;
+    height: 520px;
+
+  
+
+}
+
+
+#contenedor #comen{
+
+    position: relative;
+
+    height: 50%;
+    bottom: 289%;
+
+
+}
+
+#contenedor #menu{
+
+    position: relative;
+    bottom: 220%;
+
+}

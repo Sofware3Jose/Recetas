@@ -1,0 +1,22 @@
+
+
+#contenedor #imagen {
+    background-image: url(../Imagenes/ensalada.jpg);
+
+    background-size: 50%;
+    height: 520px;
+
+  
+
+}
+
+
+#contenedor #imagen {
+    position: relative;
+    
+  
+
+}
+
+
+

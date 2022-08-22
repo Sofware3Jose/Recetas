@@ -1,0 +1,142 @@
+* {
+    font-family: Source Sans Pro, sans-serif;
+
+}
+
+
+
+h2 {
+
+    font-family: 'Playfair Display SC', serif;
+}
+
+h3 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+
+body {
+    background-image: url();
+    background-size: 100%;
+    height: 100vh;
+    padding: 50px;
+
+}
+
+
+#contenedor {
+    width: 90%;
+    max-width: 100000PX;
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 100px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, auto);
+}
+
+#contenedor>div,
+#contenedor #guia #imagen #comen #nombre {
+    background: rgb(255, 235, 83);
+    padding: 20px;
+    border-radius: 4px;
+}
+
+#contenedor #nombre {
+
+
+    grid-column-start: 1;
+    grid-column-end: -1;
+    text-align: center;
+    font-size: 200%;
+
+
+
+}
+
+#contenedor #nombre a {
+
+    position: relative;
+    right: 42%;
+
+
+}
+
+#contenedor #guia {
+
+    width: 70%;
+
+
+}
+
+#contenedor #comen {
+
+    position: relative;
+    bottom: 400%;
+    left: 97%;
+    width: 113%;
+    height: 50%;
+
+}
+
+#contenedor #imagen {
+
+    position: relative;
+    height: 35%;
+    width: 113%;
+    right: 120px;
+
+}
+
+#contenedor #nombre a {
+
+    position: relative;
+
+    top: 150%;
+
+}
+
+#contenedor #imagen {
+    background-image: url(../Imagenes/descarga.jpg);
+
+
+
+}
+
+
+#contenedor #comen h2 {
+
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    width: 0px;
+
+    bottom: 18px;
+    left: 14px;
+
+}
+
+#contenedor #comen ul li {
+
+    display: inline-block;
+
+
+}
+
+#contenedor #menu {
+
+    position: relative;
+    bottom: 325%;
+    right: 19%;
+    width: 113%;
+
+}
+
+#contenedor #menu ul li div a {
+    text-decoration: none;
+
+    color: black;
+
+}
+
+
+

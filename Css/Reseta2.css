@@ -1,0 +1,24 @@
+#contenedor #comen{
+
+    position: relative;
+
+    height: 50%;
+    bottom: 359%;
+
+
+}
+
+#contenedor #menu{
+
+    bottom: 290%;
+
+}
+
+#contenedor #imagen {
+    
+    background-image: url(../Imagenes/canelones.png);
+
+    background-size: 50%;
+
+
+}
